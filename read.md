@@ -42,14 +42,14 @@ Usuario con rol de admin:
  ACTIVIDADES DESARROLLADAS
 
 1. Generar el diagrama E-R para la solución de la práctica 
- ![images/1.png]
+ ![](imgs/1.png)
 
 2. Crear un repositorio en GitHub con el nombre “Practica04 – Mi Correo Electrónico” 
-
+![](imgs/2.png)
  
 
 3. Realizar un commit y push por cada requerimiento de los puntos antes descritos. 
-
+![](imgs/3.png)
  
 
 
@@ -57,7 +57,7 @@ Usuario con rol de admin:
 
 	b. Nombre de la base de datos 
 	
-
+![](imgs/4.png)
  
 
 
@@ -110,31 +110,31 @@ CREATE TABLE `invitado` (
 	d. El desarrollo de cada uno de los requerimientos antes descritos. 
 	usuario anonimo
 	
- 
+ ![](imgs/5.png)
 
 	 acceso del usuario admin
-	  	
+	  	![](imgs/6.png)
 	
 Eliminar un usuario
- 
+ ![](imgs/7.png)
 Modificar un usuario
-	 
+	 ![](imgs/8.png)
 	cambiar contraseña usuario
-	 
+	 ![](imgs/9.png)
 	acceso user
-	
+	![](imgs/10.png)
 	 
 
 	eliminar una reunion
 	 
-	
+	![](imgs/11.png)
 Buscar por ajax
- 
+ ![](imgs/12.png)
 
 Crear una reunion
- 
+ ![](imgs/13.png)
 Invitar a una reunion
- 
+ ![](imgs/14.png)
 
 	
 RESULTADO(S) OBTENIDO(S):
